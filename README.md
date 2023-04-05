@@ -1,6 +1,7 @@
 Integrantes: 
 - Caio Linhares
 - Carlos Egger
+- Rodrigo Souza
 
 Nesse código, construímos um sistema de arcade em que o jogador possui três opções:
 
